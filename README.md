@@ -42,3 +42,4 @@ Unit	|Date	|Topic				|
 |12.2| Wed, Mar   3, 2021 | [Adv. Web Day 2 (Scraping)](https://zoom.us/rec/share/8LdG76-vpJ0qbhXiFw7nD_icb81EbiCHdNLRrclQyKqNozSQtn98XRzfPwVlqKGu.RvvDtxE6yRIMwiMi?startTime=1614811830000)
 |12.3| Sat, Mar   6, 2021 | [Adv. Web Day 3 (Flask)](https://zoom.us/rec/share/ocITQSnN1mXfmM-bLSwspOYsxuWtPzg0CM8Toc3vRyGWr2GXupTrnzsl3lUqldgm.UNJQCaNgrYai1khP?startTime=1615040917000)
 |13.1| Mon, Mar   8, 2021 | [ELT Day 1](https://zoom.us/rec/share/Of9uwLVH3kEb2z_XKKKV0KTZgKYyHcG9AdUYXK9e4MulDCAk-gTPMtOGAs6JddXi.ClHOd9rx7yBLgFUC?startTime=1615243796000)
+|14.1| Mon, Mar  15, 2021 | [JavaScript Day 1](xcode-select --switch /Library/Developer/CommandLineTools)

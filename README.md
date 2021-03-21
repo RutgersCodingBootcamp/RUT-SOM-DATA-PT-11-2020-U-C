@@ -44,3 +44,4 @@ Unit	|Date	|Topic				|
 |13.1| Mon, Mar   8, 2021 | [ELT Day 1](https://zoom.us/rec/share/Of9uwLVH3kEb2z_XKKKV0KTZgKYyHcG9AdUYXK9e4MulDCAk-gTPMtOGAs6JddXi.ClHOd9rx7yBLgFUC?startTime=1615243796000)
 |14.1| Mon, Mar  15, 2021 | [JavaScript Day 1](https://zoom.us/rec/share/8k5Aaz6joVmYQOVdCOTF7v6Vx1kzqiHyo2bVxjDXNFDS3T022YOTd6F0URWpjZwA.JKjU1Rmc_ZBbdd3a?startTime=1615847517000)
 |14.2| Wed, Mar  17, 2021 | [JavaScript Day 2](https://zoom.us/rec/share/fqggqvviJyk98f-Nli8Aw-YjAE3tTr8-Q-aNOEu_tainLuRfmCOluMFhz7dhlLkq.LnX7dDST8n9FLqJg?startTime=1616018162000)
+|14.3| Sat, Mar  20, 2021 | [JavaScript Day 3(D3)](https://zoom.us/rec/share/Lz3-GO7ER_QHOjsTEyI9EDL9ENX1KCFEAJDbfzWvib5-bq5gmdjYkZOXbPuHuymS._1p44VS3YICAW-Q6?startTime=1616248853000)

@@ -47,3 +47,4 @@ Unit	|Date	|Topic				|
 |14.3| Sat, Mar  20, 2021 | [JavaScript Day 3(D3)](https://zoom.us/rec/share/Lz3-GO7ER_QHOjsTEyI9EDL9ENX1KCFEAJDbfzWvib5-bq5gmdjYkZOXbPuHuymS._1p44VS3YICAW-Q6?startTime=1616248853000)
 |15.1| Mon, Mar  22, 2021 | [Plotly Day 1](https://zoom.us/rec/share/obOPuKDyZ2Bg4XrNwvTKvIoFjgZO0Pj4MY3mBna7Abw_V5CmGCHgD-eRO9oMQAxp.X77dzfpbyc-5Eaxe?startTime=1616452328000)
 |15.2| Wed, Mar  24, 2021 | [Plotly Day 2](https://zoom.us/rec/share/Dym_jt0bjXLQHIO5ZCfyYMdvCfjdJumiJSOECgsY16i9sm7bAgJ_Mum1-gEXTRD4.Qm4L2Rf1UoUQ6y_j?startTime=1616625739000)
+|15.3| Sat, Mar  27, 2021 | [Plotly Day 3](https://zoom.us/rec/share/9iT8apJy6uLeDYdOEAHq8Gt5tf9jUe2Eqif-9uayL2lvOMzS7ps8qU1rdnkUJb4M.d-Hd7XS7VgWJ7dgO?startTime=1616853782000)

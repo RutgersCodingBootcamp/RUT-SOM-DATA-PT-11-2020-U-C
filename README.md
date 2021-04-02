@@ -49,3 +49,4 @@ Unit	|Date	|Topic				|
 |15.2| Wed, Mar  24, 2021 | [Plotly Day 2](https://zoom.us/rec/share/Dym_jt0bjXLQHIO5ZCfyYMdvCfjdJumiJSOECgsY16i9sm7bAgJ_Mum1-gEXTRD4.Qm4L2Rf1UoUQ6y_j?startTime=1616625739000)
 |15.3| Sat, Mar  27, 2021 | [Plotly Day 3](https://zoom.us/rec/share/9iT8apJy6uLeDYdOEAHq8Gt5tf9jUe2Eqif-9uayL2lvOMzS7ps8qU1rdnkUJb4M.d-Hd7XS7VgWJ7dgO?startTime=1616853782000)
 |16.1| Mon, Mar  29, 2021 | [D3 Day 1](https://zoom.us/rec/share/-QmRrRvRJm2nZOzdvD81T0BBO-grHhWT-2ufk7vIxn04dx2D8VSS224PEuUErJyg.cpBkbbtPTrScAmUP?startTime=1617064021000)
+|16.2| Wed, Mar  31, 2021 | [D3 Day 2](https://zoom.us/rec/share/aSOgsSJ_rd_QcXPfPjhNfEBttLgc8fR_y3L0ov1kV-mno7xzzg3QqzGU_BZTd7h8.bJJNYg59RuwDI-MM?startTime=1617227560000)

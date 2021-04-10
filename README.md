@@ -52,3 +52,4 @@ Unit	|Date	|Topic				|
 |16.2| Wed, Mar  31, 2021 | [D3 Day 2](https://zoom.us/rec/share/aSOgsSJ_rd_QcXPfPjhNfEBttLgc8fR_y3L0ov1kV-mno7xzzg3QqzGU_BZTd7h8.bJJNYg59RuwDI-MM?startTime=1617227560000)
 |16.3| Sat, Apr   3, 2021 | [D3 Day 3](https://zoom.us/rec/share/nOHw3HrJQs1DnupvgJC9UohEGa4SLjMfVNzh3LufEesDb0BxHiJhu5uvsP4T2PX5.8KCCTD1elmRW5Zas?startTime=1617455986000)
 |17.1| Mon, Apr   5, 2021 | [Maps Day 1](https://zoom.us/rec/share/hkq8SuKNQIPrN-duvzbkDUFh6Y0GIdac3iksJP7eKh3OGlt7lankBtRr811EaP0e.oqkDcKZnnFCFkVCu?startTime=1617659201000)
+|17.1| Wed, Apr   7, 2021 | [Maps Day 2](https://zoom.us/rec/share/h4xp4Wf6BzO0dNFyjRnrvJyw63SN6rMUInBl7xy6pBW7O2KFtwMCYDJ9IXM5IwYY.q3dfelxZebfwOWG1?startTime=1617832209000)

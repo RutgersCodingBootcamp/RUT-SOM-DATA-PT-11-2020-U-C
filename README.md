@@ -56,3 +56,7 @@ Unit	|Date	|Topic				|
 |17.3| Sat, Apr  10, 2021 | [Maps Day 3](https://zoom.us/rec/share/byqtqoWOYJkGJjC4q8TV33tSpgrfs_zDTIdu2FXG-3dwcqVR4yxO28lO-UglEez0.GWs6cjURPqAEgTaV?startTime=1618060978000)
 |18.1| Wed, Apr  14, 2021 | [R Day 1](https://zoom.us/rec/share/VbvhvseND0SOfk9tGXYSxlNzntWkQCncoxngpIp96lutjNN9_DzDfMMu0UfawLz4.c25nE1PKVUJYjGp7?startTime=1618437059000)
 |18.2| Sat, Apr  17, 2021 | [R Day 2](https://zoom.us/rec/share/A6I5LXUkSDExw8WfrYU7y_eY29S6eLnbLVZ9GIyU9-7XMNU8IbiBWDwBegPHSAU.ZR5d4dXihcU4fUxm?startTime=1618665753000)
+|19.1| Mon, Apr  19, 2021 | [Heroku Deployment 1](https://zoom.us/rec/play/loS-o9PoHsHkBo4BULSYvQz5evGrxoapu-z7ThvCgkclU-MNzgdKwY88t1GifHt3b11TOf_0Oht4q1Ae.O26kkAUO9H_rZFTO?startTime=1618941109000)
+|19.1| Mon, Apr  19, 2021 | [Heroku Deployment 2](https://zoom.us/rec/play/6EYLBjZy882_PFnHMera42k4jDxGYkj46DrcRWAPA40fcZOxWf43M7IWdNeeGy_ucNcPukvfVMBoVoFE.JsFNsK0UwbgnDXB0?startTime=1618952443000)
+
+

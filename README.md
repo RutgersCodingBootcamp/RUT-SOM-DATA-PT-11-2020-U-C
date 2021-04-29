@@ -60,3 +60,4 @@ Unit	|Date	|Topic				|
 |19.1| Mon, Apr  19, 2021 | [Heroku Deployment 2](https://zoom.us/rec/play/6EYLBjZy882_PFnHMera42k4jDxGYkj46DrcRWAPA40fcZOxWf43M7IWdNeeGy_ucNcPukvfVMBoVoFE.JsFNsK0UwbgnDXB0?startTime=1618952443000)
 |19.2| Sat, Apr  24, 2021 | [Project 2 Presentation](https://zoom.us/rec/share/0Pe6rYeea15RQu0qO8_ZQtBGTAm5mym_4ogp7_YlJZZRjoFkdnTG8iA-GXTzP3DD.bkLs4kFDJnWWpCgc?startTime=1619270551000)
 |20.1| Mon, Apr  26, 2021 | [Tableau Day 1](https://zoom.us/rec/share/u4rQeIR-VjwLsYSpl2I1FGVYtcuIltxLIX4P39IUWJzZkWseMiv9DUFxGhwrjGjP.K3PACla-DbQbAQrc?startTime=1619474199000)
+|20.2| Wed, Apr  28, 2021 | [Tableau Day 2](https://zoom.us/rec/share/LW96dn8z7hQv1akYO8Nn9VdA8zNKzoN2xw-hreYXo95ovD-YqNFOzWKCKKBirsrQ.hIXgentcj678bblW?startTime=1619647170000)
